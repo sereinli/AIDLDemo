@@ -1,0 +1,2 @@
+# AIDLDemo
+Android AIDL demo
